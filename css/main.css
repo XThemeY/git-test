@@ -68,3 +68,12 @@ header {
     padding: 50px 100px;
     font-family: sans-serif;
 }
+
+footer {
+    background-color: #ff7c93;
+    font-size: 38px;
+    text-align: center;
+    color: #333;
+    padding: 50px 100px;
+    font-family: sans-serif;
+}
