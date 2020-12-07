@@ -58,5 +58,13 @@ header {
     text-align: center;
     background-color: #5898b2;
     font-size: 32px;
+    color: #333;
+}
+.main {
+    background-color: #ff7c93;
+    font-size: 38px;
+    text-align: center;
+    color: #333;
+    padding: 50px 100px;
     font-family: sans-serif;
 }
